@@ -60,16 +60,16 @@ const Hero = () => {
   }, []);
 
   const one = <h1>Hi, my name is</h1>;
-  const two = <h2 className="big-heading">Brittany Chiang.</h2>;
-  const three = <h3 className="big-heading">I build things for the web.</h3>;
+  const two = <h2 className="big-heading">Naveed Iqbal.</h2>;
+  const three = <h3 className="big-heading">I build life on-chain.</h3>;
   const four = (
     <>
       <p>
-        I’m a software engineer specializing in building (and occasionally designing) exceptional
-        digital experiences. Currently, I’m focused on building accessible, human-centered products
-        at{' '}
-        <a href="https://upstatement.com/" target="_blank" rel="noreferrer">
-          Upstatement
+        I’m a blockchain engineer specialized in developing exceptional on-chain services.
+        Currently, I’m focused on building web3 social protocol with sauce of zero-knowledge proof
+        for privacy at{' '}
+        <a href="https://klaytn.foundation/" target="_blank" rel="noreferrer">
+          Klaytn Foundation
         </a>
         .
       </p>

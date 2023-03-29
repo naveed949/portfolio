@@ -1,12 +1,12 @@
 ---
-date: '2018-05-14'
-title: 'Engineer'
-company: 'Upstatement'
-location: 'Boston, MA'
-range: 'May 2018 - Present'
-url: 'https://www.upstatement.com/'
+date: '2022-11-07'
+title: 'Blockchain Engineer'
+company: 'Klaytn Foundation'
+location: 'Remote'
+range: 'Nov 2022 - Present'
+url: 'https://klaytn.foundation/'
 ---
 
-- Write modern, performant, maintainable code for a diverse array of client and internal projects
-- Work with a variety of different languages, platforms, frameworks, and content management systems such as JavaScript, TypeScript, Gatsby, React, Craft, WordPress, Prismic, and Netlify
-- Communicate with multi-disciplinary teams of engineers, designers, producers, and clients on a daily basis
+- Write secure, gas optimized smart contracts, SDKs and libs for web3 social protocol and other projects and tools to help developers build on Klaytn and Klaytn ecosystem
+- Work with a variety of different languages, frameworks, and web3 technologies such as NodeJS, TypeScript, Solidity, Hardhat, Ethers.js, ExpressJS and Cloud Foundry
+- Communicate with multi-disciplinary teams of engineers, designers and managers on a daily basis
